@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Facundo Lesteymee\\source\\repos\\Ej-ConcurrentStack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45AC83B2-9EC3-4DBE-BAE4-10F63C77A032}|ConcurrentStackTests\\ConcurrentStackTests.csproj|c:\\users\\facundo lesteymee\\source\\repos\\ej-concurrentstack\\concurrentstacktests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45AC83B2-9EC3-4DBE-BAE4-10F63C77A032}|ConcurrentStackTests\\ConcurrentStackTests.csproj|solutionrelative:concurrentstacktests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EB07F5-7E55-4F29-86B9-6A80D8CAD8DC}|Ej-ConcurrentStack\\Ej-ConcurrentStack.csproj|c:\\users\\facundo lesteymee\\source\\repos\\ej-concurrentstack\\ej-concurrentstack\\concurrentstackexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EB07F5-7E55-4F29-86B9-6A80D8CAD8DC}|Ej-ConcurrentStack\\Ej-ConcurrentStack.csproj|solutionrelative:ej-concurrentstack\\concurrentstackexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Facundo Lesteymee\\source\\repos\\Ej-ConcurrentStack\\ConcurrentStackTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ConcurrentStackTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Facundo Lesteymee\\source\\repos\\Ej-ConcurrentStack\\ConcurrentStackTests\\UnitTest1.cs",
+              "RelativeToolTip": "ConcurrentStackTests\\UnitTest1.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwBEAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:15:06.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConcurrentStackExample.cs",
+              "DocumentMoniker": "C:\\Users\\Facundo Lesteymee\\source\\repos\\Ej-ConcurrentStack\\Ej-ConcurrentStack\\ConcurrentStackExample.cs",
+              "RelativeDocumentMoniker": "Ej-ConcurrentStack\\ConcurrentStackExample.cs",
+              "ToolTip": "C:\\Users\\Facundo Lesteymee\\source\\repos\\Ej-ConcurrentStack\\Ej-ConcurrentStack\\ConcurrentStackExample.cs",
+              "RelativeToolTip": "Ej-ConcurrentStack\\ConcurrentStackExample.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T13:59:37.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

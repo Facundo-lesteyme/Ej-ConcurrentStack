@@ -1,0 +1,11 @@
+C:\Users\Facundo Lesteymee\source\repos\Ej-ConcurrentStack\Ej-ConcurrentStack\bin\Debug\net8.0\Ej-ConcurrentStack.deps.json
+C:\Users\Facundo Lesteymee\source\repos\Ej-ConcurrentStack\Ej-ConcurrentStack\bin\Debug\net8.0\Ej-ConcurrentStack.dll
+C:\Users\Facundo Lesteymee\source\repos\Ej-ConcurrentStack\Ej-ConcurrentStack\bin\Debug\net8.0\Ej-ConcurrentStack.pdb
+C:\Users\Facundo Lesteymee\source\repos\Ej-ConcurrentStack\Ej-ConcurrentStack\obj\Debug\net8.0\Ej-ConcurrentStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Facundo Lesteymee\source\repos\Ej-ConcurrentStack\Ej-ConcurrentStack\obj\Debug\net8.0\Ej-ConcurrentStack.AssemblyInfoInputs.cache
+C:\Users\Facundo Lesteymee\source\repos\Ej-ConcurrentStack\Ej-ConcurrentStack\obj\Debug\net8.0\Ej-ConcurrentStack.AssemblyInfo.cs
+C:\Users\Facundo Lesteymee\source\repos\Ej-ConcurrentStack\Ej-ConcurrentStack\obj\Debug\net8.0\Ej-ConcurrentStack.csproj.CoreCompileInputs.cache
+C:\Users\Facundo Lesteymee\source\repos\Ej-ConcurrentStack\Ej-ConcurrentStack\obj\Debug\net8.0\Ej-ConcurrentStack.dll
+C:\Users\Facundo Lesteymee\source\repos\Ej-ConcurrentStack\Ej-ConcurrentStack\obj\Debug\net8.0\refint\Ej-ConcurrentStack.dll
+C:\Users\Facundo Lesteymee\source\repos\Ej-ConcurrentStack\Ej-ConcurrentStack\obj\Debug\net8.0\Ej-ConcurrentStack.pdb
+C:\Users\Facundo Lesteymee\source\repos\Ej-ConcurrentStack\Ej-ConcurrentStack\obj\Debug\net8.0\ref\Ej-ConcurrentStack.dll
