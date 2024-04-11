@@ -47,5 +47,34 @@ namespace Ej_ConcurrentStack
         Assert.Equal(50, result);
         Assert.Equal(new[] { 40, 30 }, remainingItems);
     }
+    [Fact]
+    public void PushRange()
+    {
+   
+    var newStack = new ConcurrentStack();
+  
+    var elementsAdd = new[] { 60, 70, 80 };
+    newStack.PushRange(elementsAdd);
+
+    var remainingItems = newStack.ShowAllItems();
+
+    Assert.Equal(new[] { 80, 70, 60 }, remainingItems); 
+    }
+
+    [Fact]
+    public void Clear()
+    {
+    var newStack = new ConcurrentStack();
+
+    newStack.PushToStack(10);
+    newStack.PushToStack(20);
+    newStack.PushToStack(30);
+
+    newStack.Clear();
+
+    bool isEmpty = newStack.IsEmpty();
+
+    Assert.True(isEmpty);
+    }
     }
     }
