@@ -1,0 +1,11 @@
+C:\Users\REBECAO\source\repos\ConcurrentQueue\ConcurrentQueue\bin\Debug\net8.0\ConcurrentQueue.deps.json
+C:\Users\REBECAO\source\repos\ConcurrentQueue\ConcurrentQueue\bin\Debug\net8.0\ConcurrentQueue.dll
+C:\Users\REBECAO\source\repos\ConcurrentQueue\ConcurrentQueue\bin\Debug\net8.0\ConcurrentQueue.pdb
+C:\Users\REBECAO\source\repos\ConcurrentQueue\ConcurrentQueue\obj\Debug\net8.0\ConcurrentQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\REBECAO\source\repos\ConcurrentQueue\ConcurrentQueue\obj\Debug\net8.0\ConcurrentQueue.AssemblyInfoInputs.cache
+C:\Users\REBECAO\source\repos\ConcurrentQueue\ConcurrentQueue\obj\Debug\net8.0\ConcurrentQueue.AssemblyInfo.cs
+C:\Users\REBECAO\source\repos\ConcurrentQueue\ConcurrentQueue\obj\Debug\net8.0\ConcurrentQueue.csproj.CoreCompileInputs.cache
+C:\Users\REBECAO\source\repos\ConcurrentQueue\ConcurrentQueue\obj\Debug\net8.0\ConcurrentQueue.dll
+C:\Users\REBECAO\source\repos\ConcurrentQueue\ConcurrentQueue\obj\Debug\net8.0\refint\ConcurrentQueue.dll
+C:\Users\REBECAO\source\repos\ConcurrentQueue\ConcurrentQueue\obj\Debug\net8.0\ConcurrentQueue.pdb
+C:\Users\REBECAO\source\repos\ConcurrentQueue\ConcurrentQueue\obj\Debug\net8.0\ref\ConcurrentQueue.dll
