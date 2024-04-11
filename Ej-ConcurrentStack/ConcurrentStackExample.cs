@@ -38,5 +38,22 @@ namespace Ej_ConcurrentStack
         {
         return cs.ToArray();
         }
+        // Agregar un rango de elementos a la pila
+        public void PushRange(int[] items)
+        {
+        cs.PushRange(items);
+        }
+
+        // Limpiar la pila
+        public void Clear()
+        {
+        cs.Clear();
+        }
+
+        // Verificar si la pila está vacía
+        public bool IsEmpty()
+        {
+        return cs.IsEmpty;
+        }
         }
         }
